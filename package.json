@@ -1,0 +1,12 @@
+{
+  "name": "tg-relay-bot",
+  "version": "1.0.0",
+  "description": "Telegram 双向复制中转（多用户、管理员指定回复、保留原文件）",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
